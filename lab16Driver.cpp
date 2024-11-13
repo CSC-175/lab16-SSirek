@@ -2,8 +2,8 @@
 #include "./lab16.cpp"
 using namespace std;
 
-int main()
-{
+int main(){
+
     int a, b;
 
     cout <<" Enter two integer values you want to find the GCF of: ";
